@@ -1,51 +1,51 @@
 PatientID,Name,Age,Diagnosis,AdmissionDate,DischargeDate
-1,Daniel Garcia,36,Hypertension,2025-01-11,2025-01-21
-2,Ethan Taylor,77,Hypertension,2024-10-23,2024-11-02
-3,Matthew Jones,48,Fracture,2024-12-07,2024-12-13
-4,Sophia Johnson,10,Allergy,2024-09-09,2024-09-13
-5,Chris Smith,58,Pneumonia,2024-10-22,2024-10-24
-6,Emma Taylor,61,Migraine,2024-12-15,
-7,Amelia Rodriguez,63,Cold,2024-09-10,2024-09-13
-8,Mia Rodriguez,2,,2025-01-03,2025-01-10
-9,Jane Taylor,3,Flu,2025-03-05,2025-03-12
-10,Joshua Hernandez,34,Diabetes,2024-09-14,
-7,Amelia Rodriguez,63,Cold,2024-09-10,2024-09-13
-12,Matthew Davis,68,,2025-06-10,2025-06-13
-13,,39,Fracture,2024-08-15,2024-08-18
-14,David Lopez,77,Covid-19,2024-10-25,2024-10-27
-15,Laura Martin,28,Cold,2025-03-28,2025-04-03
-16,Emily Garcia,74,Fracture,2025-04-05,2025-04-12
-17,Laura Williams,63,Hypertension,2025-04-27,
-18,Daniel Gonzalez,53,Allergy,2025-07-29,2025-08-06
-19,Laura Garcia,5,Allergy,2025-01-11,2025-01-14
-20,,18,,2025-05-31,2025-06-10
-17,Laura Williams,63,Hypertension,2025-04-27,
-22,,89,Cold,2025-01-17,
-23,,52,Pneumonia,2025-01-23,2025-01-29
-24,Chris Jones,61,Pneumonia,2025-07-08,2025-07-09
-25,David Anderson,7,Flu,2024-12-02,2024-12-09
-26,Matthew Hernandez,41,Cold,2024-10-24,2024-10-29
-27,Michael Taylor,53,Migraine,2024-11-29,2024-12-06
-28,Olivia Rodriguez,47,Flu,2025-04-10,2025-04-14
-29,Michael Martin,20,Covid-19,2024-10-23,2024-10-26
-30,Michael Taylor,54,Asthma,2024-08-25,2024-09-01
-20,,18,,2025-05-31,2025-06-10
-32,Andrew Lopez,80,Flu,2025-03-31,2025-04-05
-33,Olivia Garcia,43,Hypertension,2025-07-23,2025-07-29
-34,Daniel Anderson,72,Cold,2025-04-17,2025-04-19
-35,Olivia Taylor,59,Hypertension,2024-10-20,2024-10-23
-36,Matthew Taylor,66,,2024-11-03,2024-11-11
-37,Joshua Hernandez,73,Migraine,2025-06-25,2025-07-03
-38,Laura Taylor,66,Fracture,2025-07-29,2025-07-31
-39,Joshua Miller,83,Fracture,2024-11-18,2024-11-28
-40,David Jones,34,Covid-19,2024-12-27,2025-01-05
-8,Mia Rodriguez,2,,2025-01-03,2025-01-10
-42,Michael Smith,17,Asthma,2024-10-02,2024-10-07
-43,Daniel Hernandez,5,Pneumonia,2024-08-22,2024-08-30
-44,Ethan Smith,34,Cold,2025-03-22,2025-03-28
-45,Olivia Martin,2,Pneumonia,2025-08-09,2025-08-14
-46,Chris Taylor,77,Migraine,2024-12-24,2024-12-27
-47,Sarah Smith,66,,2025-08-04,2025-08-09
-48,Andrew Hernandez,44,Asthma,2025-03-06,2025-03-11
-49,Joshua Moore,6,Cold,2024-09-14,2024-09-16
-50,Jane Hernandez,46,Covid-19,2025-01-29,2025-02-05
+1,Daniel Garcia,36,Hypertension,11/01/2025,21/01/2025
+2,Ethan Taylor,77,Hypertension,23/10/2024,02/11/2024
+3,Matthew Jones,48,Fracture,07/12/2024,13/12/2024
+4,Sophia Johnson,10,Allergy,09/09/2024,13/09/2024
+5,Chris Smith,58,Pneumonia,22/10/2024,24/10/2024
+6,Emma Taylor,61,Migraine,15/12/2024,
+7,Amelia Rodriguez,63,Cold,10/09/2024,13/09/2024
+8,Mia Rodriguez,2,,03/01/2025,10/01/2025
+9,Jane Taylor,3,Flu,05/03/2025,12/03/2025
+10,Joshua Hernandez,34,Diabetes,14/09/2024,
+7,Amelia Rodriguez,63,Cold,10/09/2024,13/09/2024
+12,Matthew Davis,68,,10/06/2025,13/06/2025
+13,,39,Fracture,15/08/2024,18/08/2024
+14,David Lopez,77,Covid-19,25/10/2024,27/10/2024
+15,Laura Martin,28,Cold,28/03/2025,03/04/2025
+16,Emily Garcia,74,Fracture,05/04/2025,12/04/2025
+17,Laura Williams,63,Hypertension,27/04/2025,
+18,Daniel Gonzalez,53,Allergy,29/07/2025,06/08/2025
+19,Laura Garcia,5,Allergy,11/01/2025,14/01/2025
+20,,18,,31/05/2025,10/06/2025
+17,Laura Williams,63,Hypertension,27/04/2025,
+22,,89,Cold,17/01/2025,
+23,,52,Pneumonia,23/01/2025,29/01/2025
+24,Chris Jones,61,Pneumonia,08/07/2025,09/07/2025
+25,David Anderson,7,Flu,02/12/2024,09/12/2024
+26,Matthew Hernandez,41,Cold,24/10/2024,29/10/2024
+27,Michael Taylor,53,Migraine,29/11/2024,06/12/2024
+28,Olivia Rodriguez,47,Flu,10/04/2025,14/04/2025
+29,Michael Martin,20,Covid-19,23/10/2024,26/10/2024
+30,Michael Taylor,54,Asthma,25/08/2024,01/09/2024
+20,,18,,31/05/2025,10/06/2025
+32,Andrew Lopez,80,Flu,31/03/2025,05/04/2025
+33,Olivia Garcia,43,Hypertension,23/07/2025,29/07/2025
+34,Daniel Anderson,72,Cold,17/04/2025,19/04/2025
+35,Olivia Taylor,59,Hypertension,20/10/2024,23/10/2024
+36,Matthew Taylor,66,,03/11/2024,11/11/2024
+37,Joshua Hernandez,73,Migraine,25/06/2025,03/07/2025
+38,Laura Taylor,66,Fracture,29/07/2025,31/07/2025
+39,Joshua Miller,83,Fracture,18/11/2024,28/11/2024
+40,David Jones,34,Covid-19,27/12/2024,05/01/2025
+8,Mia Rodriguez,2,,03/01/2025,10/01/2025
+42,Michael Smith,17,Asthma,02/10/2024,07/10/2024
+43,Daniel Hernandez,5,Pneumonia,22/08/2024,30/08/2024
+44,Ethan Smith,34,Cold,22/03/2025,28/03/2025
+45,Olivia Martin,2,Pneumonia,09/08/2025,14/08/2025
+46,Chris Taylor,77,Migraine,24/12/2024,27/12/2024
+47,Sarah Smith,66,,04/08/2025,09/08/2025
+48,Andrew Hernandez,44,Asthma,06/03/2025,11/03/2025
+49,Joshua Moore,6,Cold,14/09/2024,16/09/2024
+50,Jane Hernandez,46,Covid-19,29/01/2025,05/02/2025
